@@ -1,0 +1,92 @@
+[
+  {
+    "transactionId": "TRX-20241001-001",
+    "userId": 1,
+    "products": [101, 108],
+    "totalPrice": 2384000,
+    "paymentMethod": "credit_card",
+    "status": "completed",
+    "timestamp": "2024-10-01T09:30:15Z"
+  },
+  {
+    "transactionId": "TRX-20241002-045",
+    "userId": 5,
+    "products": [120, 104],
+    "totalPrice": 1815000,
+    "paymentMethod": "gopay",
+    "status": "completed",
+    "timestamp": "2024-10-02T14:22:01Z"
+  },
+  {
+    "transactionId": "TRX-20241003-112",
+    "userId": 10,
+    "products": [117, 113, 104],
+    "totalPrice": 252500,
+    "paymentMethod": "bank_transfer",
+    "status": "pending",
+    "timestamp": "2024-10-03T19:45:33Z"
+  },
+  {
+    "transactionId": "TRX-20241005-087",
+    "userId": 3,
+    "products": [107, 103, 116],
+    "totalPrice": 1151500,
+    "paymentMethod": "shopeepay",
+    "status": "failed",
+    "timestamp": "2024-10-05T11:17:54Z"
+  },
+  {
+    "transactionId": "TRX-20241007-156",
+    "userId": 18,
+    "products": [101, 109, 113],
+    "totalPrice": 2007500,
+    "paymentMethod": "credit_card",
+    "status": "completed",
+    "timestamp": "2024-10-07T16:05:22Z"
+  },
+  {
+    "transactionId": "TRX-20241008-201",
+    "userId": 7,
+    "products": [106, 119, 113],
+    "totalPrice": 121500,
+    "paymentMethod": "dana",
+    "status": "completed",
+    "timestamp": "2024-10-08T21:30:45Z"
+  },
+  {
+    "transactionId": "TRX-20241010-189",
+    "userId": 12,
+    "products": [111, 109],
+    "totalPrice": 2998000,
+    "paymentMethod": "bank_transfer",
+    "status": "completed",
+    "timestamp": "2024-10-10T08:45:12Z"
+  },
+  {
+    "transactionId": "TRX-20241012-065",
+    "userId": 20,
+    "products": [115, 106, 113],
+    "totalPrice": 2976500,
+    "paymentMethod": "ovo",
+    "status": "completed",
+    "timestamp": "2024-10-12T13:15:03Z"
+  },
+  {
+    "transactionId": "TRX-20241015-132",
+    "userId": 9,
+    "products": [102, 101, 113],
+    "totalPrice": 2197500,
+    "paymentMethod": "credit_card",
+    "status": "refunded",
+    "timestamp": "2024-10-15T17:33:28Z"
+  },
+  {
+    "transactionId": "TRX-20241018-076",
+    "userId": 14,
+    "products": [102, 113, 106],
+    "totalPrice": 774500,
+    "paymentMethod": "gopay",
+    "status": "completed",
+    "timestamp": "2024-10-18T10:08:19Z"
+  }
+]
