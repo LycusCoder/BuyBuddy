@@ -4,7 +4,7 @@ import App from './App.vue'
 import router from './router'
 import './assets/tailwind.css'
 
-// Impor komponen Icon yang sudah kita buat
+// Impor komponen Icon 
 import Icon from './components/Icon.vue'
 
 const app = createApp(App)

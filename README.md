@@ -1,52 +1,88 @@
-# BuyBuddy - Sistem Rekomendasi Produk E-Commerce
+# 🛍️ BuyBuddy - Sistem Rekomendasi Produk E-Commerce  
+![Version](https://img.shields.io/badge/version-1.0.0-blue)  
+![Vue.js](https://img.shields.io/badge/vue-3.x-brightgreen)  
+![License](https://img.shields.io/badge/license-Apache%202.0-blue)  
 
-![BuyBuddy Logo](https://your-logo-url.com/logo.png)
+![BuyBuddy View](https://i.imgur.com/0lTDiS0.png)
 
-## 📌 Deskripsi
-**BuyBuddy** adalah sistem rekomendasi produk e-commerce yang menggunakan pendekatan berbasis pola pembelian pengguna untuk meningkatkan pengalaman belanja. Dengan menganalisis riwayat transaksi dan preferensi pelanggan, sistem ini dapat memberikan rekomendasi produk yang lebih relevan dan personal.
+## 🌟 Deskripsi  
+**BuyBuddy** adalah sistem rekomendasi cerdas yang membantu pengguna menemukan produk yang relevan dengan analisis pola pembelian. Dengan kombinasi algoritma Machine Learning dan analisis data transaksi, kami membuat rekomendasi belanja lebih personal dan efektif.
 
-## 🔥 Fitur Utama
-✅ **Rekomendasi Produk Cerdas** - Memberikan saran produk berdasarkan kebiasaan belanja pengguna.  
-✅ **Integrasi Algoritma Canggih** - Menggunakan teknik **Collaborative Filtering** dan **Apriori Algorithm**.  
-✅ **Pola Pembelian & Analisis Data** - Menganalisis pola transaksi untuk meningkatkan akurasi rekomendasi.  
-✅ **Antarmuka Modern** - Dibangun menggunakan **Vite** dan **Vue.js** untuk tampilan yang cepat dan responsif.
+---
 
-## 🛠️ Teknologi yang Digunakan
-- **Frontend**: Vue.js, Vite, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB / MySQL (sesuai kebutuhan)
-- **Machine Learning**: Python (Scikit-Learn, Pandas, NumPy)
-- **Algoritma**: Collaborative Filtering, Apriori Algorithm
+## 🔥 Fitur Utama  
+✅ **Rekomendasi Produk Cerdas**  
+Pengalaman belanja yang dipersonalisasi menggunakan analisis pola pembelian pengguna  
 
-## ⚙️ Cara Instalasi
-1. **Clone repository ini**
-   ```sh
-   git clone https://github.com/LycusCoder/BuyBuddy.git
-   cd BuyBuddy
-   ```
-2. **Install dependensi**
-   ```sh
-   npm install
-   ```
-3. **Jalankan proyek**
-   ```sh
-   npm run dev
-   ```
-4. **Akses di browser**: `http://localhost:3000`
+✅ **Algoritma Hybrid**  
+Kombinasi **Collaborative Filtering** dan **Apriori Algorithm** untuk akurasi maksimal  
 
-## 📊 Algoritma yang Digunakan
-### 🏷️ Collaborative Filtering
-Menganalisis kesamaan antara pengguna berdasarkan riwayat belanja mereka, lalu merekomendasikan produk yang sering dibeli oleh pengguna serupa.
+✅ **Analisis Transaksi**  
+Visualisasi pola belanja dan insight data pelanggan dalam bentuk grafik interaktif  
 
-### 🔗 Apriori Algorithm
-Mengidentifikasi pola pembelian yang sering terjadi dalam transaksi e-commerce dan menggunakannya untuk merekomendasikan produk yang sering dibeli bersamaan.
+✅ **Antarmuka Modern**  
+Desain responsif dengan Vue.js + Tailwind CSS untuk pengalaman pengguna optimal  
 
-## 🚀 Kontribusi
-Kami menerima kontribusi dalam bentuk fitur baru, perbaikan bug, atau peningkatan dokumentasi! Silakan fork repository ini dan buat **pull request**.
+---
 
-## 📜 Lisensi
-Proyek ini menggunakan lisensi **MIT**. Silakan gunakan dan kembangkan sesuai kebutuhan.
+## 🛠️ Stack Teknologi  
+| Komponen       | Teknologi                                                                 |
+|----------------|---------------------------------------------------------------------------|
+| **Frontend**   | Vue.js, Vite, Tailwind CSS                                               |
+| **Backend**    | Node.js, Express.js                                                      |
+| **Database**   | MongoDB / MySQL                                                          |
+| **ML**         | Python (Scikit-Learn, Pandas, NumPy)                                     |
+| **Algoritma**  | Collaborative Filtering, Apriori Algorithm                              |
 
-## 💌 Kontak
-📧 Email: your-email@example.com  
-🔗 GitHub: [LycusCoder](https://github.com/LycusCoder)
+---
+
+## ⚙️ Instalasi Cepat  
+```bash
+# 1. Clone repository
+git clone https://github.com/LycusCoder/BuyBuddy.git
+cd BuyBuddy
+
+# 2. Install dependencies
+npm install
+
+# 3. Jalankan aplikasi
+npm run dev
+
+# 4. Buka di browser
+http://localhost:3000
+```
+
+---
+
+## 🧠 Algoritma Inti  
+### 1. **Collaborative Filtering** 🤝  
+Menganalisis kesamaan preferensi antar pengguna untuk merekomendasikan produk yang populer di kelompok serupa
+
+### 2. **Apriori Algorithm** 🛒  
+Mengidentifikasi **association rules** dalam transaksi untuk rekomendasi "Pelanggan juga membeli:"
+
+---
+
+## 🤝 Kontribusi  
+Kami sangat terbuka untuk kolaborasi!  
+1. Fork repository  
+2. Buat branch baru (`git checkout -b feature/nama-fitur`)  
+3. Commit perubahan (`git commit -m 'Tambahkan fitur X'`)  
+4. Push ke branch (`git push origin feature/nama-fitur`)  
+5. Buat Pull Request  
+
+---
+
+## 📜 Lisensi  
+Licensed under **Apache License 2.0**  
+Anda bebas menggunakan, memodifikasi, dan mendistribusikan proyek ini sesuai dengan ketentuan lisensi.
+
+---
+
+## 📧 Kontak  
+Developed by **Affif**  
+[![Email](https://img.shields.io/badge/Email-affif%40nourivex.tech-blue?style=flat&logo=gmail)](mailto:affif@nourivex.tech)  
+[![GitHub](https://img.shields.io/badge/GitHub-LycusCoder-black?style=flat&logo=github)](https://github.com/LycusCoder)  
+[![Website](https://img.shields.io/badge/Website-nourivex.tech-blue?style=flat)](https://nourivex.tech)
+```
+
