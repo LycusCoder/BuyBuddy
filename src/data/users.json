@@ -1,122 +1,497 @@
 [
   {
     "id": 1,
-    "name": "Aisyah Rahmawati",
-    "preferences": ["elektronik", "buku"],
-    "purchase_history": [101, 108]
+    "name": "Ayu Wijaya",
+    "username": "ayu1",
+    "email": "ayu1@nourivex.tech",
+    "password": "password123",
+    "avatar": "/images/avatar1.png",
+    "nomorhp": "+62-745-911-",
+    "alamat": "Gang Dipatiukur No. 48, Yogyakarta",
+    "preferences": [
+      "fashion"
+    ],
+    "purchase_history": [
+      124,
+      125,
+      102
+    ]
   },
   {
     "id": 2,
-    "name": "Bima Satrioaji",
-    "preferences": ["otomotif", "olahraga"],
-    "purchase_history": [109, 115]
+    "name": "Sari Prakoso",
+    "username": "sari2",
+    "email": "sari2@nourivex.tech",
+    "password": "password123",
+    "avatar": "/images/avatar2.png",
+    "nomorhp": "(043) 947-05",
+    "alamat": "Jl. S. Parman No. 51, Palangkaraya",
+    "preferences": [
+      "snacks"
+    ],
+    "purchase_history": [
+      179,
+      101,
+      134
+    ]
   },
   {
     "id": 3,
-    "name": "Citra Kirana Putri",
-    "preferences": ["kecantikan", "fashion"],
-    "purchase_history": [107, 103, 116]
+    "name": "Riska Purnomo",
+    "username": "riska3",
+    "email": "riska3@nourivex.tech",
+    "password": "password123",
+    "avatar": "/images/avatar3.png",
+    "nomorhp": "(019) 782 52",
+    "alamat": "Gg. Cempaka No. 8, Bukittinggi",
+    "preferences": [
+      "cultural",
+      "food",
+      "electronics"
+    ],
+    "purchase_history": [
+      154,
+      170,
+      173
+    ]
   },
   {
     "id": 4,
-    "name": "Daffa Haidar Rizky",
-    "preferences": ["elektronik", "snack"],
-    "purchase_history": [113, 111]
+    "name": "Winda Permatasari",
+    "username": "winda4",
+    "email": "winda4@nourivex.tech",
+    "password": "password123",
+    "avatar": "/images/avatar4.png",
+    "nomorhp": "0825575021",
+    "alamat": "Gang Ciumbuleuit No. 9, Sukabumi",
+    "preferences": [
+      "books"
+    ],
+    "purchase_history": [
+      104,
+      171,
+      118
+    ]
   },
   {
     "id": 5,
-    "name": "Elsa Fitriyani",
-    "preferences": ["seni_budaya", "makanan"],
-    "purchase_history": [104, 120]
+    "name": "Luki Utama",
+    "username": "luki5",
+    "email": "luki5@nourivex.tech",
+    "password": "password123",
+    "avatar": "/images/avatar5.png",
+    "nomorhp": "+62-010-373-",
+    "alamat": "Jl. Abdul Muis No. 42, Tomohon",
+    "preferences": [
+      "electronics",
+      "books"
+    ],
+    "purchase_history": [
+      135,
+      107,
+      181
+    ]
   },
   {
     "id": 6,
-    "name": "Fajar Ramadan",
-    "preferences": ["kesehatan", "perlengkapan_rumah"],
-    "purchase_history": [110, 114]
+    "name": "Rudi Sukma",
+    "username": "rudi6",
+    "email": "rudi6@nourivex.tech",
+    "password": "password123",
+    "avatar": "/images/avatar6.png",
+    "nomorhp": "083 034 7895",
+    "alamat": "Jl. Jayawijaya No. 54, Kota Administrasi Jakarta Barat",
+    "preferences": [
+      "home_appliances",
+      "food",
+      "sports"
+    ],
+    "purchase_history": [
+      126,
+      149,
+      149
+    ]
   },
   {
     "id": 7,
-    "name": "Gita Salsabila",
-    "preferences": ["minuman", "buku"],
-    "purchase_history": [106, 119]
+    "name": "Nugraha Pratama",
+    "username": "nugraha7",
+    "email": "nugraha7@nourivex.tech",
+    "password": "password123",
+    "avatar": "/images/avatar7.png",
+    "nomorhp": "+62 (092) 84",
+    "alamat": "Gang Peta No. 64, Kota Administrasi Jakarta Pusat",
+    "preferences": [
+      "books",
+      "home_appliances",
+      "snacks"
+    ],
+    "purchase_history": [
+      197,
+      156,
+      155
+    ]
   },
   {
     "id": 8,
-    "name": "Hanan Zahira",
-    "preferences": ["fashion", "kecantikan"],
-    "purchase_history": [116, 118]
+    "name": "Riko Saputra",
+    "username": "riko8",
+    "email": "riko8@nourivex.tech",
+    "password": "password123",
+    "avatar": "/images/avatar8.png",
+    "nomorhp": "+62-074-195-",
+    "alamat": "Jalan Dr. Djunjunan No. 046, Banjar",
+    "preferences": [
+      "snacks"
+    ],
+    "purchase_history": [
+      108,
+      145,
+      103
+    ]
   },
   {
     "id": 9,
-    "name": "Iqbal Maulana",
-    "preferences": ["olahraga", "elektronik"],
-    "purchase_history": [102, 101]
+    "name": "Dini Handayani",
+    "username": "dini9",
+    "email": "dini9@nourivex.tech",
+    "password": "password123",
+    "avatar": "/images/avatar9.png",
+    "nomorhp": "(090) 401-94",
+    "alamat": "Jalan Rajiman No. 4, Cimahi",
+    "preferences": [
+      "books",
+      "snacks",
+      "clothing"
+    ],
+    "purchase_history": [
+      155,
+      103,
+      194
+    ]
   },
   {
     "id": 10,
-    "name": "Jihan Aulia",
-    "preferences": ["makanan", "snack"],
-    "purchase_history": [104, 113, 117]
+    "name": "Rima Wibowo",
+    "username": "rima10",
+    "email": "rima10@nourivex.tech",
+    "password": "password123",
+    "avatar": "/images/avatar10.png",
+    "nomorhp": "+62 (42) 800",
+    "alamat": "Jalan Joyoboyo No. 402, Depok",
+    "preferences": [
+      "health"
+    ],
+    "purchase_history": [
+      129,
+      113,
+      135
+    ]
   },
   {
     "id": 11,
-    "name": "Khalisa Putri",
-    "preferences": ["seni_budaya", "fashion"],
-    "purchase_history": [103, 120]
+    "name": "Wira Setiawan",
+    "username": "wira11",
+    "email": "wira11@nourivex.tech",
+    "password": "password123",
+    "avatar": "/images/avatar11.png",
+    "nomorhp": "+62 (85) 136",
+    "alamat": "Gg. Surapati No. 43, Gorontalo",
+    "preferences": [
+      "automotive",
+      "books"
+    ],
+    "purchase_history": [
+      163,
+      173,
+      178
+    ]
   },
   {
     "id": 12,
-    "name": "Luthfi Hananto",
-    "preferences": ["otomotif", "elektronik"],
-    "purchase_history": [109, 111]
+    "name": "Agus Setyawan",
+    "username": "agus12",
+    "email": "agus12@nourivex.tech",
+    "password": "password123",
+    "avatar": "/images/avatar12.png",
+    "nomorhp": "+62 (061) 27",
+    "alamat": "Jl. Erlangga No. 91, Kediri",
+    "preferences": [
+      "fashion",
+      "automotive"
+    ],
+    "purchase_history": [
+      198,
+      159,
+      192
+    ]
   },
   {
     "id": 13,
-    "name": "Maya Pertiwi",
-    "preferences": ["perlengkapan_rumah", "kesehatan"],
-    "purchase_history": [105, 110]
+    "name": "Lala Utami",
+    "username": "lala13",
+    "email": "lala13@nourivex.tech",
+    "password": "password123",
+    "avatar": "/images/avatar13.png",
+    "nomorhp": "+62 (0743) 1",
+    "alamat": "Jalan Bangka Raya No. 676, Palopo",
+    "preferences": [
+      "health"
+    ],
+    "purchase_history": [
+      123,
+      167,
+      159
+    ]
   },
   {
     "id": 14,
-    "name": "Naufal Rizqullah",
-    "preferences": ["olahraga", "snack"],
-    "purchase_history": [102, 113]
+    "name": "Winda Permatasari",
+    "username": "winda14",
+    "email": "winda14@nourivex.tech",
+    "password": "password123",
+    "avatar": "/images/avatar14.png",
+    "nomorhp": "+62 (00) 012",
+    "alamat": "Gg. Medokan Ayu No. 861, Bau-Bau",
+    "preferences": [
+      "home_appliances"
+    ],
+    "purchase_history": [
+      133,
+      134,
+      120
+    ]
   },
   {
     "id": 15,
-    "name": "Oki Setiawan",
-    "preferences": ["buku", "minuman"],
-    "purchase_history": [108, 106]
+    "name": "Dinda Anggraini",
+    "username": "dinda15",
+    "email": "dinda15@nourivex.tech",
+    "password": "password123",
+    "avatar": "/images/avatar15.png",
+    "nomorhp": "085 076 9120",
+    "alamat": "Gang Suniaraja No. 472, Bima",
+    "preferences": [
+      "cultural",
+      "fashion",
+      "health"
+    ],
+    "purchase_history": [
+      159,
+      161,
+      100
+    ]
   },
   {
     "id": 16,
-    "name": "Puti Mariani",
-    "preferences": ["kecantikan", "fashion"],
-    "purchase_history": [107, 116]
+    "name": "Panca Utama",
+    "username": "panca16",
+    "email": "panca16@nourivex.tech",
+    "password": "password123",
+    "avatar": "/images/avatar16.png",
+    "nomorhp": "+62 (177) 73",
+    "alamat": "Jl. Pelajar Pejuang No. 30, Bukittinggi",
+    "preferences": [
+      "fashion",
+      "snacks",
+      "automotive"
+    ],
+    "purchase_history": [
+      132,
+      120,
+      137
+    ]
   },
   {
     "id": 17,
-    "name": "Qonita Zahra",
-    "preferences": ["makanan", "seni_budaya"],
-    "purchase_history": [117, 112]
+    "name": "Hendra Ramadan",
+    "username": "hendra17",
+    "email": "hendra17@nourivex.tech",
+    "password": "password123",
+    "avatar": "/images/avatar17.png",
+    "nomorhp": "+62 (005) 86",
+    "alamat": "Jalan Cihampelas No. 5, Sorong",
+    "preferences": [
+      "cultural",
+      "sports"
+    ],
+    "purchase_history": [
+      171,
+      119,
+      149
+    ]
   },
   {
     "id": 18,
-    "name": "Rafi Akbar",
-    "preferences": ["elektronik", "otomotif"],
-    "purchase_history": [101, 109]
+    "name": "Wulan Purnama",
+    "username": "wulan18",
+    "email": "wulan18@nourivex.tech",
+    "password": "password123",
+    "avatar": "/images/avatar18.png",
+    "nomorhp": "081 372 2008",
+    "alamat": "Jl. Tebet Barat Dalam No. 36, Semarang",
+    "preferences": [
+      "food",
+      "snacks",
+      "home_appliances"
+    ],
+    "purchase_history": [
+      182,
+      143,
+      139
+    ]
   },
   {
     "id": 19,
-    "name": "Salsabila Nur",
-    "preferences": ["buku", "kecantikan"],
-    "purchase_history": [119, 118]
+    "name": "Jati Prakoso",
+    "username": "jati19",
+    "email": "jati19@nourivex.tech",
+    "password": "password123",
+    "avatar": "/images/avatar19.png",
+    "nomorhp": "+62 (0832) 4",
+    "alamat": "Gg. Medokan Ayu No. 275, Dumai",
+    "preferences": [
+      "home_appliances",
+      "health",
+      "automotive"
+    ],
+    "purchase_history": [
+      146,
+      197,
+      107
+    ]
   },
   {
     "id": 20,
-    "name": "Tasya Kamila",
-    "preferences": ["olahraga", "minuman"],
-    "purchase_history": [115, 106]
+    "name": "Lala Utami",
+    "username": "lala20",
+    "email": "lala20@nourivex.tech",
+    "password": "password123",
+    "avatar": "/images/avatar20.png",
+    "nomorhp": "+62 (741) 96",
+    "alamat": "Jalan M.H Thamrin No. 0, Malang",
+    "preferences": [
+      "automotive",
+      "sports",
+      "electronics"
+    ],
+    "purchase_history": [
+      153,
+      101,
+      197
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Dimas Saputra",
+    "username": "dimas21",
+    "email": "dimas21@nourivex.tech",
+    "password": "password123",
+    "avatar": "/images/avatar21.png",
+    "nomorhp": "+62 (0747) 4",
+    "alamat": "Jl. Jend. A. Yani No. 70, Kota Administrasi Jakarta Utara",
+    "preferences": [
+      "clothing",
+      "books",
+      "cultural"
+    ],
+    "purchase_history": [
+      127,
+      180,
+      116
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Oki Prakoso",
+    "username": "oki22",
+    "email": "oki22@nourivex.tech",
+    "password": "password123",
+    "avatar": "/images/avatar22.png",
+    "nomorhp": "+62 (493) 96",
+    "alamat": "Gg. Cikutra Barat No. 60, Tangerang",
+    "preferences": [
+      "electronics",
+      "fashion",
+      "food"
+    ],
+    "purchase_history": [
+      167,
+      112,
+      110
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Nia Sari",
+    "username": "nia23",
+    "email": "nia23@nourivex.tech",
+    "password": "password123",
+    "avatar": "/images/avatar23.png",
+    "nomorhp": "+62-023-562-",
+    "alamat": "Gang Raya Ujungberung No. 748, Kota Administrasi Jakarta Barat",
+    "preferences": [
+      "automotive",
+      "home_appliances",
+      "clothing"
+    ],
+    "purchase_history": [
+      156,
+      110,
+      107
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Rini Setiawan",
+    "username": "rini24",
+    "email": "rini24@nourivex.tech",
+    "password": "password123",
+    "avatar": "/images/avatar24.png",
+    "nomorhp": "+62-036-443-",
+    "alamat": "Jl. R.E Martadinata No. 00, Sawahlunto",
+    "preferences": [
+      "health",
+      "snacks"
+    ],
+    "purchase_history": [
+      196,
+      125,
+      104
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Bima Prakoso",
+    "username": "bima25",
+    "email": "bima25@nourivex.tech",
+    "password": "password123",
+    "avatar": "/images/avatar25.png",
+    "nomorhp": "+62 (030) 13",
+    "alamat": "Gg. Jakarta No. 8, Kota Administrasi Jakarta Pusat",
+    "preferences": [
+      "snacks",
+      "fashion",
+      "cultural"
+    ],
+    "purchase_history": [
+      194,
+      133,
+      115
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Muhammad Affif",
+    "username": "richlycus",
+    "email": "richard.huawei08@gmail.com",
+    "password": "password123",
+    "avatar": "/images/avatarrichlycus.png",
+    "nomorhp": "+62 085328995580",
+    "alamat": "Jl. Anis Kembang No.1 , Pekauman, Tegal Barat, Kota Tegal, J",
+    "preferences": [
+      "snacks"
+    ],
+    "purchase_history": []
   }
 ]
